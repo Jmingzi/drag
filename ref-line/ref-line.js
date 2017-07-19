@@ -1,3 +1,4 @@
+// https://github.com/think2011/ref-line/blob/master/src/ref-line.js
 class RefLine {
     constructor (options) {
         this.options = Object.assign({
